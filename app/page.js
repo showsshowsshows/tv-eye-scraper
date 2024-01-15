@@ -24,6 +24,8 @@ const runProgram = async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
+  console.log('Scraping data...')
+
   // Set browser viewport
   await page.setViewport({ width: 1300, height: 600 });
 
