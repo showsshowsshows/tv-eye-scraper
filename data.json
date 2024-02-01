@@ -1,173 +1,6 @@
 [
   {
-    "title": "Heavy Lag, Radar, Hell Beach, Horrible Timing",
-    "date": "2024-01-14T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$15.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTdhMTFjMzUtMGIwNC00YWIwLTk0ZjQtMGU3N2RkOGQ5ZTk1IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Heavy Lag, Radar, Hell Beach, Horrible Timing",
-    "rating": 0
-  },
-  {
-    "title": "Mess, Seven, Epic Beast",
-    "date": "2024-01-15T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$10.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMTdkOWFiMDUtNmI5NC00M2I0LTk5YjYtNTZhNTA4OGMzM2JkIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Mess, Seven, Epic Beast",
-    "rating": 0
-  },
-  {
-    "title": "Karaoke Fun House with Anna Copa Cabanna",
-    "date": "2024-01-16T00:00:00.000+00:00",
-    "genre": "Karaoke",
-    "location": "at TV Eye",
-    "time": "9:00PM",
-    "price": "$0.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTgzNThmYTEtNWU0NS00ZTc2LWI5Y2EtNmVkYTIxYmJlMTA2IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Karaoke Fun House",
-    "rating": 0
-  },
-  {
-    "title": "The return of Sun Ra Arkestra",
-    "date": "2024-01-17T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$30.00",
-    "isFeatured": false,
-    "excerpt": "Sun Ra, Sun Ra Arkestra",
-    "rating": 0
-  },
-  {
-    "title": "Miss Teen America, Moxie Pocket, Locations, TV Moms",
-    "date": "2024-01-18T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$12.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNzRkNmQ0MzAtNWRlMi00NDNkLTg5ODktM2M3MDAwYzI1OWQ4IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Miss Teen America, Moxie Pocket, Locations, TV Moms",
-    "rating": 0
-  },
-  {
-    "title": "The Sun Ra Arkestra",
-    "date": "2024-01-19T00:00:00.000+00:00",
-    "genre": "Psych Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$30.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYzY0MTY5NWEtNzlkYy00NWMwLWEwZGYtNDMwY2ZlMmMyZDM2IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "The Sun Ra Arkestra",
-    "rating": 0
-  },
-  {
-    "title": "Shilpa Ray, Shop Talk, Calamity Glamour",
-    "date": "2024-01-20T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$15.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMTFhY2IxMDgtNjE4OC00MDMwLTlmN2ItZDYwMDU4ZDAxOTg1IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Shilpa Ray, Shop Talk, Calamity Glamour",
-    "rating": 0
-  },
-  {
-    "title": "Mevius, a place both wonderful and strange",
-    "date": "2024-01-20T00:00:00.000+00:00",
-    "genre": "DJ/Dance",
-    "location": "at TV Eye",
-    "time": "11:00PM",
-    "price": "$10.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYTY1Nzc1MTAtYzdkNS00MjQwLTk5MzctNjJlOGZkZjMyZGEwIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Mevius, a place both wonderful and strange",
-    "rating": 0
-  },
-  {
-    "title": "KFC Murder Chicks, Homeowners Association, Kill Alters",
-    "date": "2024-01-21T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "5:00PM",
-    "price": "$30.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYTA0MjhhMjktYWRlZC00MDlhLWE1NjItM2FkOGFlOWMzMDkxIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "KFC Murder Chicks, Homeowners Association, Kill Alters, Bacterial Lawn X foradayribcage, COI_N, Kissbreaker, ZACARAMA!, Seth Seabolt, Romeo Diablos, clutrrglych, Garbage for Lust",
-    "rating": 0
-  },
-  {
-    "title": "Karaoke Fun House with Anna Copa Cabanna",
-    "date": "2024-01-23T00:00:00.000+00:00",
-    "genre": "Karaoke",
-    "location": "at TV Eye",
-    "time": "9:00PM",
-    "price": "$0.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTgzNThmYTEtNWU0NS00ZTc2LWI5Y2EtNmVkYTIxYmJlMTA2IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Karaoke Fun House",
-    "rating": 0
-  },
-  {
-    "title": "Babehoven, Bloomsday, Richard Orofino",
-    "date": "2024-01-25T00:00:00.000+00:00",
-    "genre": "Indie",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$18.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZWE3ZWMxNjctZjc0NS00OGE0LTk5NzktNzExZDA0ZmJkYzU3IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Babehoven, Bloomsday, Richard Orofino",
-    "rating": 0
-  },
-  {
-    "title": "Smith Taylor, Nelson Bandela , B.oone",
-    "date": "2024-01-26T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$12.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMzkwOGE4MGItYmU5OC00YmMyLThkYjYtMWJlMzBmOGZkNzE3IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Smith Taylor, Nelson Bandela , B.oone, DJ Binky Griptite (of the Dap Kings), DJ Eavesdrop",
-    "rating": 0
-  },
-  {
-    "title": "Riverboat Gamblers, Wyldlife, Ravagers",
-    "date": "2024-01-27T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$22.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNWY2YTY0OTktZDEyYi00MjAwLTliMDUtOWY2MzhmOGM1YmQ3IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Riverboat Gamblers, Wyldlife, Ravagers",
-    "rating": 0
-  },
-  {
-    "title": "Saintseneca",
-    "date": "2024-01-28T00:00:00.000+00:00",
-    "genre": "Rock",
-    "location": "at TV Eye",
-    "time": "8:00PM",
-    "price": "$16.00",
-    "isFeatured": false,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiOGY1Y2I5YmYtMzRmZC00ZDliLWI4NjktOTIwNjk0MDkyMDJlIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Saintseneca",
-    "rating": 0
-  },
-  {
-    "title": "Mom Rock",
+    "title": "Mom Rock, Heart Rot, Meridian Lights",
     "date": "2024-02-01T00:00:00.000+00:00",
     "genre": "Rock",
     "location": "at TV Eye",
@@ -175,7 +8,7 @@
     "price": "$15.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiM2I5MDA3MTMtOWJmZi00OTRkLWJhNjUtMGFkODgxMTdlYzIyIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Mom Rock",
+    "excerpt": "21+\n\nForming in Boston in 2018, Canadian-American indie rock outfit Mom Rock combines the forces of Curtis Heimburger, Wilson Reardon, and Tara Maggiulli. They got their start taking Boston’s college party scene by storm, and have since stolen the hearts of show-goers with electric live sets, infectious original tunes, and signature themed get-ups.\n\nWith nothing but organic grassroots efforts, Mom Rock have surpassed 7,000,000 streams on Spotify alone and have reached a global audience of over 600,000 listeners. They’ve released four EPs to date, and have been slated to play on stages of festivals like Shaky Knees, Music Midtown, Osheaga, and Mile of Music. They were recently featured as Rolling Stone’s Hot Band in their 2022 Hot Issue, and are a 2023 Salt Lick Incubator grant recipient. Mom Rock are currently based in Nashville, and are available for any Little League games you need players for.",
     "rating": 0
   },
   {
@@ -184,10 +17,46 @@
     "genre": "Psych Rock",
     "location": "at TV Eye",
     "time": "8:00PM",
-    "price": "$15.00",
+    "price": "$15.00-$20.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMjdlOWE3YjMtNjFjOS00ZGM2LWE4ZDMtNGU1MDQ4YmI0YzU5IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "The Thing, The Simplicity",
+    "excerpt": "21+\n$15 Early Bird $20 GA Advance\nThe Thing is a four piece from New York City. \n\nThe band originated in High School when Michael Carter, Jack Bradley, and Zane Acord bonded over a shared love for rock & roll. Over the years they honed their craft, self recording and writing songs influenced by 60’s pioneers such as the Kinks, Grand Funk Railroad, and artists of The Nuggets Compilation. As they progressed in skill and knowledge the band started to envision a career inspired by the likes of Brian Jonestown Massacre, King Gizzard, and The Black Keys.\nThe Thing started playing shows and creating a buzz around New York City in the Winter of 2022. Shortly after, the band embarked on small tours up and down the east coast. Their energetic live performances earned the attention of honest music lovers. \nTheir debut record “Here’s The Thing” was released in April 2023. The record is a compilation of songs written throughout the early years of the band. It was self recorded and produced deep in the hills of Sharon, CT, continued in their Crown Heights apartment, then finished in the band’s East Williamsburg studio, Onion Records. While each environment was set up with humble equipment, the band's commitment for authentic recording and their passion for rock & roll is what makes the album unique.\nWith the album out in the wild and the addition of Lucas Ebeling on the kit, The Thing is relentlessly touring, recording new music, and breaching the modern world of rock & roll. \nLONG LIVE THE THING",
+    "rating": 0
+  },
+  {
+    "title": "Academy Records & Friends ",
+    "date": "2024-02-03T00:00:00.000+00:00",
+    "genre": "Shopping/Market",
+    "location": "at TV Eye",
+    "time": "12:00PM",
+    "price": "$0.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiOWY0ZTM3MmUtNmMzYy00MTkwLThlMjctNmM0OGRkMjhmNTk2IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "Academy Records & Friends Record Fair,  21+\n12 pm - 7 pm\nFeaturing:\nHuman Head\nEat Records\nMaterial World\nDJ Demzta Recka\nDJ Knish\nKeeling Beckford\nDrew Redman\nBilly Jones\nPaul Campagna \n+ more\nAfterparty Show to follow.",
+    "rating": 0
+  },
+  {
+    "title": "Lamplight, Zane Morris, Dave Miller Quintet, Prison",
+    "date": "2024-02-03T00:00:00.000+00:00",
+    "genre": "Alternative",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$15.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMzAxODk2Y2UtY2ZiOC00YzY3LTgyZjQtOWFiMTliNDAyMWQwIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+, $15 8pm\nLamplight\nZane Morris\nDavid Miller Quintet \nPrison",
+    "rating": 0
+  },
+  {
+    "title": "Miranda & The Beat, Sporrs, Polite",
+    "date": "2024-02-04T00:00:00.000+00:00",
+    "genre": "Rock",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$12.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMDJiZGVlNjktNmMyOC00ZmQwLTgxOGEtMTM4YmViOWY2ZTc0IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+",
     "rating": 0
   },
   {
@@ -199,7 +68,19 @@
     "price": "$0.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTgzNThmYTEtNWU0NS00ZTc2LWI5Y2EtNmVkYTIxYmJlMTA2IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Karaoke Fun House",
+    "excerpt": "21+\nKARAOKE FUN HOUSE \nwith Anna Copa Cabanna \nWeekly on Tuesdays starting at 8PM and going late!",
+    "rating": 0
+  },
+  {
+    "title": "Yowie, Pak, Sploot, Horse Torso",
+    "date": "2024-02-07T00:00:00.000+00:00",
+    "genre": "Rock",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$15.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYTQxZmEyNmItNzhkYy00ODZlLWJmYzItNWExYzE0MWQ1N2I1IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\n$15 adv / $20 dos",
     "rating": 0
   },
   {
@@ -211,7 +92,19 @@
     "price": "$12.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNGJlNzVkODEtNWNmMy00ZWU4LWIxNWItYjZkNGFlMWNhZWQxIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Pink Mexico, Substitute, Aux Blood, Opera",
+    "excerpt": "21+\n$12 adv / $15 dos",
+    "rating": 0
+  },
+  {
+    "title": "L.O.T.I.O.N. MULTINATIONAL CORPORATION, Salvaje Punk, LAL",
+    "date": "2024-02-09T00:00:00.000+00:00",
+    "genre": "Punk/Ska",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$15.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYzg0ZmIyYzAtZTRhYi00OTZmLTk5ZDctMTQzZDIwZTQ4MGYyIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+",
     "rating": 0
   },
   {
@@ -223,7 +116,7 @@
     "price": "$10.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiOWFlNWViMGMtNzRiYy00NzgxLTkxZjItZWNjMzhhY2EwZjg1IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "",
+    "excerpt": "21+\nJoin us for a day of exploration and empowerment at @Makeupandsin Bliss Bazaar! Engage in enlightening workshops led by renowned speakers such as @lolajeandotcom, @msgigggles, @safeslut, and @vibingwithV, hosted by the charismatic @dirtylola. You'll learn everything from squirting techniques to body confidence in the bedroom. Experience electrifying performances by Crimson Kitty and the sensational naked trumpeter. Explore a diverse array of products from vendors like Spectrum Boutique, Edonista, Kink Instruments, Momotaro Apothecary, and more. A celebration of pleasure, education, and liberation awaits you!",
     "rating": 0
   },
   {
@@ -235,7 +128,31 @@
     "price": "$12.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMjQwNGVlMjAtNzhhNC00ZTkxLThhY2QtYzkxN2ZhYWY1ZDUxIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "The Rita, Mass Marriage, Viodre, Shredded Nerve, DJ January Hunt",
+    "excerpt": "21+\n$12 adv / $15 dos",
+    "rating": 0
+  },
+  {
+    "title": "no.ah, indigaux, Chris Conde, Kate Brunotts",
+    "date": "2024-02-11T00:00:00.000+00:00",
+    "genre": "Hip Hop/Rap",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$12.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiY2M4YTUzOTAtMWIwMS00MmI5LTk1MjQtOTQ1YjUzYWQ2ZTA2IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\n$12\nNO.AH\nINDIGAUX\n\nCHRIS CONDE\nChris Conde (they/them) “the most raw, brutal and incredible talent that US rap has produced in the last ten years\" (Sun Burns Out, France) is a queer, LatinX hip-hop artist that just transplanted from Austin, TX to Brooklyn, NY in April of 2022.\n\nKATE BRUNOTTS",
+    "rating": 0
+  },
+  {
+    "title": "TINDER LIVE WITH LANE MOORE *VALENTINE'S DAY SPECIAL*",
+    "date": "2024-02-13T00:00:00.000+00:00",
+    "genre": "Stand-Up",
+    "location": "at TV Eye",
+    "time": "8:30PM",
+    "price": "$20.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMjg1OWNlYzQtNTJjNC00MGEwLTk0ZjUtMzBlYTAxM2ZhNWI3IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\n2/13 at 830 show\nDanny Tamberelli is known for his portrayal of Little Pete in The Adventures of Pete & Pete and for his work as a cast member of the Nickelodeon sketch comedy series All That. He is also known for his portrayal of Jimmy De Santa in the 2013 video game Grand Theft Auto V. Tamberelli is the bassist and vocalist for the rock band Jounce, formed in Northern New Jersey. In 2013, he started a podcast with former The Adventures of Pete and Pete co-star Michael C. Maronna.\nMichael C. Maronna is best known for his roles as \"Big Pete\" Wrigley on the television series The Adventures of Pete & Pete and as Jeff McCallister in the movie Home Alone (1990) and Home Alone 2: Lost in New York (1992).",
     "rating": 0
   },
   {
@@ -247,7 +164,31 @@
     "price": "$0.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTgzNThmYTEtNWU0NS00ZTc2LWI5Y2EtNmVkYTIxYmJlMTA2IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Karaoke Fun House",
+    "excerpt": "21+\nKARAOKE FUN HOUSE \nwith Anna Copa Cabanna \nWeekly on Tuesdays starting at 8PM and going late!",
+    "rating": 0
+  },
+  {
+    "title": "NY Night Train VALENTINES VILLAGE OF LOVE",
+    "date": "2024-02-14T00:00:00.000+00:00",
+    "genre": "Rock",
+    "location": "at TV Eye",
+    "time": "7:00PM",
+    "price": "$20.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZWM3NmQ3NGEtZGZhYi00MjUxLTlhZjMtNjA3MGNmNzkyNGVkIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "",
+    "rating": 0
+  },
+  {
+    "title": "Cale Hawkins, witS & Smitty!, Canteenkilla",
+    "date": "2024-02-15T00:00:00.000+00:00",
+    "genre": "Alternative",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$15.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNWVlNmRjMjEtODE3ZS00ZTdhLTk1ZWQtNmVmMTgzYjE1YjQ5IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\nCALE HAWKINS\nCale Hawkins creates music from a small, windowless room in Brooklyn.\nHailing from Bemus Point, NY (population: 364), Hawkins has toured, written, and produced internationally with a wide array of artists and groups since 2012. His songs draw from experiences both real and surreal.\nHawkins produces, engineers, and plays all the instruments (except strings) on his music. His debut LP \"I Broke My Shoulders\" came out in 2023 via Switch Hit Records, and was featured on NPR's \"All Songs Considered.\"",
     "rating": 0
   },
   {
@@ -259,7 +200,7 @@
     "price": "$20.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYzM1YzQ2ZjAtODBjZC00ZTBkLThiMWEtZjJhMmIzZDU1Y2YwIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Escuela Grind, Take Offense, Brat",
+    "excerpt": "21+",
     "rating": 0
   },
   {
@@ -271,20 +212,20 @@
     "price": "$20.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNTJkZjcwYzUtNDg0OS00MWU5LWE4NWUtMzY4OTFmYWVlYWZlIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Mindforce, Inclination, Simulakra, Scarab, Godskinpeeler, Dimension Six",
+    "excerpt": "18+",
     "rating": 0
   },
   {
-    "title": "Spite FuXXX, Vic Sin, Frida Kill, Kārtël, Bad Vacation, Chic",
+    "title": "Spite FuXXX, Vic Sin, Frida Kill, Bad Vacation, Chico Raro B",
     "date": "2024-02-18T00:00:00.000+00:00",
     "genre": "Rock",
     "location": "at TV Eye",
     "time": "7:00PM",
     "price": "$15.00",
-    "isFeatured": true,
-    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZmFjN2RjOTctMzYwNy00ZDIwLTkyODctMjk1NjI3YzFhNjYzIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Spite FuXXX, Vic Sin, Frida Kill, Kārtël, Bad Vacation, Chico Raro Band, Depresion Tropical, Meadow Le' Elle, [unintelligible screaming]",
-    "rating": 5
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMDFjYjQ2YzctY2Q4Yi00ODYwLTk5MzMtMGQ0YjVhMTJjNTBmIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "16+, $15\nSpite FuXXX Album Release\nSunday, Feb. 18 / 7pm",
+    "rating": 0
   },
   {
     "title": "Karaoke Fun House with Anna Copa Cabanna",
@@ -295,7 +236,19 @@
     "price": "$0.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTgzNThmYTEtNWU0NS00ZTc2LWI5Y2EtNmVkYTIxYmJlMTA2IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Karaoke Fun House",
+    "excerpt": "21+\nKARAOKE FUN HOUSE \nwith Anna Copa Cabanna \nWeekly on Tuesdays starting at 8PM and going late!",
+    "rating": 0
+  },
+  {
+    "title": "Toy Cities, Push!, London Plane, 12090 A.D.",
+    "date": "2024-02-21T00:00:00.000+00:00",
+    "genre": "Indie",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$10.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiN2I2YWMxYzAtZGVmYy00ZDllLWEwMWMtZTAwMGJkOGE0MzYyIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\nTOY CITIES\nToy Cities was born from the collaboration between childhood friends Michael Nesci (vocals, guitar) and Mitch Lee (bass, synth). The Brooklyn based act pulls influence from their shared love of post-punk, new wave and the British jangle bands of the 80's and 90's.\nSince the band formed in 2013 they have gained attention in and outside New York for their infectious energy and a sound that lies somewhere betweposen the synth-pop sensibilities of New Order and the moody croon of The Smiths. They create a unique tone that is also layered with the modulation, fuzz and reverb of 90’s dream pop, fit for an existential dance party.\nThe group's tight focus on song-craft and melody led Indie Shuffle to declare their latest offering: “a beautiful indie-pop creation.” Their newest EP “Digital Waves” is set to release in the fall of 2019.\n\nPUSH!\nNew wave duets for post post punk era, hard rockers and disco bunnies.\n\nLONDON PLANE\nNYC-based post-punk / alternative rock collective London Plane have been gathering much acclaim for their blend of dark pop, disco-punk and post-punk grooves since their 2018 debut New York Howl and 2022's Bright Black on Brooklyn label Declared Goods. With a refreshed line up, 2024 looks to be a year which continues 2023's revival of the live shows which have gained London Plane a reputation as crowd favorites in New York City. \n\n12090 A.D.\nFrom the visionary drummer, composer Tim Kuhl “captivating, harrowing, and gorgeous bodies of work” (Pop Matters) 12090 A.D. blends evocative instrumentals, nostalgic-pop sounds from the 1980’s, neon tinged aural aesthetics, post rock, and all the epic drama of the big screen.\nAs a sideman, Kuhl has worked with a diverse list of artists such as Sean Lennon and Charlotte Kemp Muhl (The GOASTT), Margaret Glaspy, Satomi Matsuzaki (Deerhoof), Zola Jesus, Madison Cunningham, Ondara, Jounce (feat. Danny Tamberelli), Sophie Auster, Domino Kirke, and many others.",
     "rating": 0
   },
   {
@@ -307,7 +260,7 @@
     "price": "$12.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiY2FhODVlOWItMTlmMC00ZTdmLTkyNzUtODAwNzZkNmI0MmNkIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "A Place to Bury Strangers, Upper Wilds, Channel Vessel",
+    "excerpt": "21+\n$12 adv / $15 dos",
     "rating": 0
   },
   {
@@ -319,7 +272,7 @@
     "price": "$20.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYTVmYjI4ZDUtY2MxZi00ZGNkLWJjMmMtODEwZmI1MGU5ZWQyIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Haram, Taqbir, kaleidoscope, Mirage, Suck",
+    "excerpt": "18+",
     "rating": 0
   },
   {
@@ -331,7 +284,7 @@
     "price": "$15.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZDgyN2YxY2UtN2Q0Yy00ZjViLTg5ZWUtMWYzOTM4MDZkMGJlIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Kontusion, Infandus, Vermindog, Shatter",
+    "excerpt": "21+",
     "rating": 0
   },
   {
@@ -343,7 +296,19 @@
     "price": "$0.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTgzNThmYTEtNWU0NS00ZTc2LWI5Y2EtNmVkYTIxYmJlMTA2IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Karaoke Fun House",
+    "excerpt": "21+\nKARAOKE FUN HOUSE \nwith Anna Copa Cabanna \nWeekly on Tuesdays starting at 8PM and going late!",
+    "rating": 0
+  },
+  {
+    "title": "Porcelain, Life in Vacuum, Jobber, A Deer A Horse",
+    "date": "2024-02-29T00:00:00.000+00:00",
+    "genre": "Rock",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$15.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMGJjZDg0MzktMjhlYS00MDFiLThkZmUtZDI4MDI2YTZhODRjIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\n$15\nPORCELAIN\nPorcelain is a four piece rock band from Austin, TX\nLIFE IN VACUUM \nJOBBER\nA DEER A HORSE",
     "rating": 0
   },
   {
@@ -355,11 +320,11 @@
     "price": "$15.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiY2YwZjMwNTAtNDUxYS00OWJiLWJjNGEtYjQ3ZTE2MzVmNzU5IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Mother Feather, Kaye, Slyboots",
+    "excerpt": "21+\n$15 adv | $20 dos",
     "rating": 0
   },
   {
-    "title": "Omni, This is Lorelai",
+    "title": "Omni, This is Lorelei ",
     "date": "2024-03-02T00:00:00.000+00:00",
     "genre": "Rock",
     "location": "at TV Eye",
@@ -367,7 +332,19 @@
     "price": "$20.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNmVhZGM4OGYtNTliOS00N2VlLTgzMGMtOGU1ZTg3ZWNlMzk0IiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Omni, This is Lorelai",
+    "excerpt": "21+\n\nThe music of Atlanta trio Omni has always swung fast and hit hard. And Souvenir, their fourth album and second for Sub Pop, packs their biggest punch yet. Inactive during the majority of the pandemic–the longest downtime in their history–they approached this recording with lots of pent-up energy. Guitarist Frankie Broyles, singer/bassist Philip Frobos, and drummer Chris Yonker converted their creative fuel into sharp, driving songs that land immediately, sporting chopping riffs, staccato beats, and wiry melodies.\n\nWhy does Souvenir sound so sharp? Because each track is a compact unit that stands on its own, reflecting the time and place in which it was created. That’s why Omni called the album Souvenir: it’s a collection of audio objects, a stash of musical miniatures. Think of it as a family photo album, a binder of rare playing cards, a shoebox holding precious gems.\n\nTake “Plastic Pyramid,” the first song Omni wrote after coming out of lockdown. Filled with twists and turns, it’s a journey unto itself, charged by clanging chords, spinning rhythm, and Frobos trading lines with Izzy Glaudini of Automatic, with whom Omni toured with last fall. (Glaudini sings on two other Souvenir tracks, the first guest vocalist the band has collaborated with). Or take opener “Exacto,” a slicing web of intertwined guitar and bass. Its razor-fine notes and syncopated beats perfectly match pointillist Frobos lyrics such as “Exacto, de facto, concise, quite right”–a line that could well be an Omni mantra. \n\nThe precision and clarity of Souvenir comes from some new Omni developments. For one, this is their first album with Yonker as their full-time drummer, and his forceful playing adds exclamation points to every pointed moment on Souvenir. In addition, the trio worked with Atlanta-based engineer Kristofer Sampson for the first time. Sampson pushed the band to a higher degree of power, with Frobos’s vocals more upfront in his pulsing mix and the rest of the music leaping out of the speakers. \n\nYou might notice that Frobos’ singing is a bit more emotional and even nostalgic this time around. In crafting his vocals, he was inspired by the early college radio rock of formative favorites like REM, the Cure, and Big Audio Dynamite–the kind of bands whose melodies could have been top 40 hits in an alternative universe. The lyrics on Souvenir are also by turns funny, absurd, and even cryptic. A wry humor has always coursed through Omni’s songs, and this time, it comes in shades of both dark and light. In “Granite Kiss,” an “astronomical” love story concludes with the hope that “we can decay together,” while in “PG,” a romantic walk in the park includes a rose-colored mugging.\nImmediacy rushes throughout every moment of Souvenir, making it the band's most powerful album to date. Omni has truly crafted a musical keepsake–a set of songs that you’ll want to keep close, an aural memento you'll cherish for the rest of time.",
+    "rating": 0
+  },
+  {
+    "title": "Scout Gillett, Jeanines, Told Slant, Lightheaded",
+    "date": "2024-03-03T00:00:00.000+00:00",
+    "genre": "Indie",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$12.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNzFkZGNmMWEtODdkNi00NGEzLTgyZjMtNzc4OTA5N2U2ZmM2IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+ \n$12, 7p.m.\nSince relocating from Kansas City in 2017, Scout has become a fixture in Brooklyn’s music scene, playing in multiple live bands and even starting her own booking company to organize local shows. Her intrepid nature was borne of necessity; the product of a childhood spent running barefoot through rural Missouri and a coming of age in Kansas City’s punk scene.\nJeanines: \nWith a sound that captures the ramshackle energy of C-86-style guitar pop, the winsome grit of noise pop bands of the '90s, and some classic folk-rock jangle, the Jeanines are a Brooklyn duo who know their indie pop history, as their 2019 self-titled debut and 2022's assured follow-up Don't Wait for a Sign clearly demonstrate. \nTold Slant is the songwriting project of Felix Walworth, Brooklyn based lyricist, producer, and founding member of The Epoch arts collective. Walworth started the project in 2011 as a means of marking a stylistic shift in their song writing, specifically toward understated, ambling arrangements and simple, illustrative lyrics. Told Slant’s debut LP, Still Water, was self-released in 2012, then re-released and pressed to vinyl by Broken World Media in 2014. The band released their follow full-length record, Going By with Double Double Whammy Records in the summer of 2016.\nLightheaded",
     "rating": 0
   },
   {
@@ -379,7 +356,19 @@
     "price": "$20.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiOGI4NDIxNjctZGI2My00OGVjLTk3ODMtNTkzNzdiYzU2ODViIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Video Age, Sean Nicholas Savage",
+    "excerpt": "21+\n\nVideo Age make breezy and timeless songs that are so ineffable, they can only be the result of a decades-long friendship and songwriting partnership. Across four albums, Ross Farbe and Ray Micarelli have gleefully worn their influences on their sleeve, writing inviting tunes that reference sounds ranging from disco to pop and indie rock. On their latest LP, Away From The Castle, the New Orleans duo have strayed from nostalgia and instead have honed their own unique musicality, making songs that sound like themselves with a taste of inspiration from classic singer-songwriters of the 60s and 70s. The album is a testament to the possibilities that come from getting out of your comfort zone, the freedom of writing vulnerably and unselfconsciously, and the joys of getting to work with your closest companions. \n\nAfter releasing and eventually touring their critically-acclaimed third album Pleasure Line in 2020, Farbe and Micarelli sought inspiration for their next project through collaboration. They worked with Drugdealer on his album Hiding In Plain Sight, Micarelli gigged throughout New Orleans' jazz and blues scenes, and Farbe recorded local artists at his home studio, most recently producing Esther Rose's new album Safe to Run. Feeling refreshed, they rented a cabin in Eunice, Louisiana with touring members Nick Corson and Duncan Troast, where they spent eight days in August 2022 jamming, cooking and writing together.  \n\nThrough this process, Video Age have made their best collection of tracks to date by perfectly alchemizing their influences and experiences into a record still tinged with nostalgia, but moving towards a more succinct and authentic voice. Away From The Castle is a document of a band having fun and rediscovering their love for making music together, but it’s also their most honest and personal work yet–Video Age distilled to its purest form.",
+    "rating": 0
+  },
+  {
+    "title": "Poison Ruin, Cross, Lathe of Heaven, Secretors",
+    "date": "2024-03-17T00:00:00.000+00:00",
+    "genre": "Post Punk",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$18.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMTI1NTM3MzEtM2M0NS00YTMzLThlMzMtYjZjYTk3MTY3ZTExIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "18+\n$18 adv / $20 dos",
     "rating": 0
   },
   {
@@ -391,7 +380,7 @@
     "price": "$17.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZjIzODk1NjEtMDgwYy00ZjQwLTllYmEtZjI5YjRkOTAxZTVlIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Elephant Stone, Evolfo",
+    "excerpt": "21+",
     "rating": 0
   },
   {
@@ -403,7 +392,31 @@
     "price": "$20.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNWRkNzgwZTItNzAxMi00Y2IxLWEyMGYtNmJkZDg0NTBlZjQxIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Quest Master, Putrid Marsh, Scythe",
+    "excerpt": "21+",
+    "rating": 0
+  },
+  {
+    "title": "Mong Tong",
+    "date": "2024-03-29T00:00:00.000+00:00",
+    "genre": "Rock",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$18.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNGY1YWJlN2UtMTJjZS00OTk1LWJjNGItZmY3NzI0NzE5Mzg4IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+",
+    "rating": 0
+  },
+  {
+    "title": "Kate Clover, The Trash Bags",
+    "date": "2024-03-30T00:00:00.000+00:00",
+    "genre": "Rock",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$15.00",
+    "isFeatured": false,
+    "image": "https://tveyenyc.com/wp-content/uploads/2023/01/tv-eye-e1673392710636.jpeg",
+    "excerpt": "21+\n$15\n\nKate Clover is a songwriter and musician from Los Angeles, California. From the local lineage of bands like X, Germs, and The Gun Club, to the glamorous destitution of the downtown streets, Clover is inspired by the city that raised her, exploring the intricacies of self-discovery, self-creation, and self-preservation in the place where dreams are born to die. With the live-wire energy and crackling force of defiant fists raised in the air, Clover’s music is the rallying cry of a natural born killer. Leading an ace band of rangy, rowdy boys, Clover cuts an electric figure--a next-gen underground hero for the would-be believers.\nWith Patti Smith and Iggy pop as her artistic North Stars, Clover mastered three chords and defected to art school, where she learned to play “Chinese Rocks” by Johnny Thunders, and wrote her first song. She cut her teeth playing in various projects but was determined to go solo, seeking independence and total control. In 2019 she parted ways with her former bands and was in search of a new start. In need of self-discovery and an escape from her life in America, she headed to Mexico City to write. A four day trip turned into four months, as Clover decided to stay and record her album. Upon her return to the US she assembled a band and quickly carved out a space for herself in the LA scene. Earning a rep for explosive live shows.",
     "rating": 0
   },
   {
@@ -415,7 +428,43 @@
     "price": "$15.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYzQyZjhmNzYtYTA3My00MTk1LWE4ZjYtMGY2ZDcxZmU0ZWRhIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Discovery Zone",
+    "excerpt": "21+\nDiscovery Zone is the experimental pop project of New York Berlin musician and multimedia artist JJ Weihl. After the slow-building but undeniable fervor around her debut album Remote Control, Discovery Zone announced her second album Quantum Web due out March 8th via RVNG Intl. and Mansions and Millions (GSA). Inspired by the omnipresence of advertising and corporate culture as much as the potential of cybernetics and neural networks, Discovery Zone plunges into an uncanny valley with Quantum Web, where the distinctions between the earnest and the ironic blur in tandem with the border between the human and the post-human. Discovery Zone explores a widescreen pop sound speckled with luminous vocal performances and baroque instrumental flourishes. On stage, she utilises a laboratory of instruments and 3D visuals to explore the universe as a source of information",
+    "rating": 0
+  },
+  {
+    "title": "Ende Tymes 14",
+    "date": "2024-04-04T00:00:00.000+00:00",
+    "genre": "Metal",
+    "location": "at TV Eye",
+    "time": "¯\\_(ツ)_/¯",
+    "price": "$22.00-$75.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMzZiMzVkMTctZDg4Zi00ZDE4LWIyYzAtNDMyY2RmMTFkNjAwIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\nWeekend Pass (all 3 days): $75\nThursday: $22 adv / $25 door (10 acts)\nFriday: $27 adv / $30 door (12 acts + 2 DJs)\nSaturday: $27 adv / $30 door (12 acts + 2 DJs)\nLive lineup updates: https://halfnormal.com/endetymes/",
+    "rating": 0
+  },
+  {
+    "title": "Tim Kinsella & Jenny Pulse",
+    "date": "2024-04-09T00:00:00.000+00:00",
+    "genre": "Indie",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$17.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYzJiNzdhMGItOWNkOC00NzY5LWI2MjMtODkwYzAxZDdiZjQ1IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\n$17 adv $20 dos\nTim Kinsella and Jenny Pulse have spent years making thoughtful and unpredictable art, whether musically as Joan of Arc or Spa Moans, or under their given names as writers and visual artists. On Giddy Skelter, their debut album as the unadorned “Tim Kinsella & Jenny Pulse,” they once again take an unexpected turn, but aim for something more direct. They’ve crafted a swirling, past-future, future-past, sorta-rock, collage-rock, melange borne from the confined anxiety of the pandemic. It’s a full-length undeniably of its moment, rich with musical references while radiating a visionary path forward.To assemble Giddy Skelter, Kinsella and Pulse aggressively culled their tracklist until they had a lean and impactful 11 songs, unlike anything either musician has released before. Opening track “Unblock Obstacles” chugs along on a three-chord riff and dubbed-out drums before venturing into a hypnotic, feedback-filled drone that channels pre-Loveless My Bloody Valentine. “Over and Over” imagines a world where Slowdive or Lush collaborated with Prefuse 73. On “Nena,” one minute features loops of classical piano, the next Spacemen 3-style psychedelic drone, and the next contemporary R&B. The majority of songs on Giddy Skelter foreground Pulse’s yearning, ethereal vocals, giving the music a distinctly feminine overtone.The title Giddy Skelter alludes to both Gimme Shelter, the infamous documentary about the Rolling Stones’ disastrous Altamont free concert, and the Manson Family’s Helter Skelter scenario. But none of this is an homage to a bygone era. And there’s another dimension to the title: It can be interpreted alchemically, combining two of the most popular songs in rock history — “Gimme Shelter” and “Helter Skelter” — both of which have sinister associations that give them greater gravity. Sometimes the thing that makes great rock n’ roll is the ineffable and the intangible, something you can only describe as alchemy; other times it’s the rigors of process. On Kinsella and Pulse’s Giddy Skelter, it’s both — and it sounds unlike anything else you’ll hear this year.",
+    "rating": 0
+  },
+  {
+    "title": "JOHN R. MILLER & THE DESLONDES",
+    "date": "2024-04-11T00:00:00.000+00:00",
+    "genre": "Rock",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$20.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMWJjYmU2ZTAtZGRiYy00YTc5LTk0YjUtY2U5MWFhODcyNWVkIiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\nJOHN R. MILLER x THE DESLONDES\nJOHN R MILLER\nJohn R Miller is a true hyphenate artist: singer-songwriter-picker. Every song on his thrilling debut solo album, Depreciated, is lush with intricate wordplay and haunting imagery, as well as being backed by a band that is on fire. One of his biggest long-time fans is roots music favorite Tyler Childers, who says he's \"a well-travelled wordsmith mapping out the world he's seen, three chords at a time.\" Miller is somehow able to transport us to a shadowy honkytonk and get existential all in the same line with his tightly written compositions. Miller's own guitar-playing is on fine display here along with vocals that evoke the white-waters of the Potomac River rumbling below the high ridges of his native Shenandoah Valley.\nTHE DESLONDES\nWe shed old skin in order to evolve and move forward. We let go of who we were in the past and embrace who we’re meant to be now. The Deslondes have taken such steps as not only bandmates, but as brothers. The New Orleans quintet—Dan Cutler, Sam Doores, Riley Downing, Cameron Snyder, and John James Tourville—have weathered ups, downs, and everything in between only to strengthen the bond between them. Infusing everything from saxophone, flute, and synth to string arrangements and a full drum kit for the first time, the group naturally progress and evolve in real-time on their third full-length offering, Ways & Means [New West Records].“The title reminds me of being young, getting into the music business, going through everything, and coming out of it,” Riley observes. “We’re taking a look right, left, and back at ourselves.” “We were letting go of a bunch of old dynamics that left us burnt out,” adds John James. “However, we’re focused on being productive and on the other side.”",
     "rating": 0
   },
   {
@@ -427,7 +476,19 @@
     "price": "$17.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNzRiNmY1YzktMjIyZi00NjFkLTgyMWUtNGE5MWIwZTkyMmFlIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "A Beacon School",
+    "excerpt": "21+\nThe official follow-up to his beloved debut Cola, Smith takes his sound even further with 10 tracks that are an untainted exploration of the unconscious artistic self and the oscillation of time.Smith began making music as A Beacon School in 2009. A home-recorded demo single was released in 2011, and a self-titled EP by a full-band lineup appeared near the end of 2012. Smith notably played with bands such as Modern Rivals and Bluffing, and currently works with Parquet Courts' Max Savage as part of Maxband. In 2018, A Beacon School's Cola was released by Grind Select. Alternating between uptempo, jangly pop nuggets, lush shoegaze and intricately-arranged electronic soundscapes, it quickly found an audience and became a staple on KCRW’s flagship program, Morning Becomes Eclectic.  After receiving positive press and slowly gaining a worldwide following, an expanded vinyl edition of Cola was released in 2019 in conjunction with Fat Possum’s House Arrest imprint, amassing over 50 million streams, tours with El Ten Eleven and Ruby Haunt and syncs on critically acclaimed shows such as Hacks and Shrinking.\"",
+    "rating": 0
+  },
+  {
+    "title": "The Crosses, Skull Practitioners, Mirage",
+    "date": "2024-04-19T00:00:00.000+00:00",
+    "genre": "Hardcore",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$20.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiM2I2Y2E0NTctMzUyYS00YjEwLTk0YTYtMTRhZTI2YTY3OTU2IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\n$20 advance, $25 DOS\nDie Kreuzen vocalist, Daniel Kubinski and his band \"The Crosses\" perform the entire first Die Kreuzen LP from start to finish along with hits from the \"October File\" LP",
     "rating": 0
   },
   {
@@ -439,7 +500,31 @@
     "price": "$15.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMDVlZGI0MWYtYzg0Ny00ZmI1LWI2MDktY2JmMjc2ZTAwMjdjIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Eric Slick",
+    "excerpt": "21+\nEric Slick is a singer, songwriter, and multi-instrumentalist from Nashville, TN. He’s performed and recorded with Dr. Dog, Taylor Swift, The War On Drugs, Waxahatchee, Kevin Morby, Ruston Kelly, Adrian Belew, Ween, and many more. Eric has several studio albums, including 2020’s acclaimed Wiseacre.\nSkyler Skjelset is a founding member of the band Fleet Foxes. He has toured as a musician with Beach House and the Walkmen, and in addition, has a catalogue of his own music mostly which is ambient, improvisational, and exploratory. His latest release ‘Back in Heaven’ is the exception to his solo efforts as it explores more traditional songwriting structures and focuses on singing. He is also active with his other New York City based band Yeah Baby.",
+    "rating": 0
+  },
+  {
+    "title": "Sarah Shook & the Disarmers",
+    "date": "2024-05-12T00:00:00.000+00:00",
+    "genre": "Alternative",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$18.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYzc1YmQ2MDYtZWRjYi00ZGJlLWExMDEtZDBmMTk4M2Y4MmE2IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\n$18 adv / $20 dos",
+    "rating": 0
+  },
+  {
+    "title": "French Police",
+    "date": "2024-05-16T00:00:00.000+00:00",
+    "genre": "Post Punk",
+    "location": "at TV Eye",
+    "time": "8:00PM",
+    "price": "$20.00",
+    "isFeatured": false,
+    "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZWZhOTBhZGYtNGQyNy00Y2ZkLTkxYTEtYzQ5MDc0ZGMxM2I4IiwiZWRpdHMiOnt9fQ==",
+    "excerpt": "21+\nFRENCH POLICE\n\n$20 adv $22 dos\nFormed in Chicago, French Police is led by vocalist and guitarist Brian Flores. Their music combines raw energy and introspection, cultivating a dedicated and underground following with their distinctive sound. With the release of their albums “French Police” (2019), “Haunted Castle” (2020), and “BLEU” (2023), they have showcased their artistic growth and have established a sense of identity. French Police has toured in Mexico and North America. Drawing from a variety of influences and inspiration, their music carries a touch of cultural richness, that sets them in a league of their own.",
     "rating": 0
   },
   {
@@ -451,7 +536,7 @@
     "price": "$35.00",
     "isFeatured": false,
     "image": "https://d1htavafy9m5bl.cloudfront.net/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiODkzYjUwMTgtNDI5NC00N2FhLWI0NzYtZWI5ZjM0Y2IwNzJhIiwiZWRpdHMiOnt9fQ==",
-    "excerpt": "Ahab, Aura Noir, Deathhammer, Aeviterne, Ordeals",
+    "excerpt": "21+",
     "rating": 0
   }
 ]
