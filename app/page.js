@@ -77,17 +77,18 @@ const scrapeData = async (page, browser) => {
 
     let photoUrl = $$('#extra-data-container > div.event-images-box > div.main-image.m-b-5 > a > img').attr('src');
     let formattedDate = formatDateStringForMongoDB(event.dateString);
-
+    let excerpt = $$('.event-details p').map((_, pElement) => $$(pElement).text()).get().join('\n');
+    console.log("excerpt: " + excerpt);
     gigzArr.push({ 
       title: event.title, 
       date: formattedDate, 
       genre: event.genre,
       location: event.venue,
-      time: event.showtime,
+      time: event.showtime || "¯\\_(ツ)_/¯",
       price: event.price,
       isFeatured: false,
-      image: photoUrl,
-      excerpt: event.headliners,
+      image: photoUrl || "https://tveyenyc.com/wp-content/uploads/2023/01/tv-eye-e1673392710636.jpeg",
+      excerpt: excerpt.trim(),
       rating: 0
     });
 
