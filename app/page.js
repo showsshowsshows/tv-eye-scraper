@@ -89,7 +89,8 @@ const scrapeData = async (page, browser) => {
       isFeatured: false,
       image: photoUrl || "https://tveyenyc.com/wp-content/uploads/2023/01/tv-eye-e1673392710636.jpeg",
       excerpt: excerpt.trim(),
-      rating: 0
+      rating: 0,
+      expiresAt: calculateExpiresAt(formattedDate)
     });
 
     await eventPage.close();
@@ -116,4 +117,14 @@ const isElementVisible = async (page, selector) => {
     const el = document.querySelector(selector);
     return el ? true : false;
   }, selector);
+};
+
+const calculateExpiresAt = (eventDate) => {
+  const date = new Date(eventDate);
+
+  date.setUTCDate(date.getUTCDate() + 1);
+  date.setUTCHours(2, 0, 0, 0); 
+
+  let isoString = date.toISOString(); 
+  return isoString;
 };
